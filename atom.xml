@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> - Articles</title>
-    <description>The professional publishing platform</description>
+    <description>I'm an aspiring researcher. I blog about neural networks and deep learning.</description>
     <link>
     </link>
     
@@ -334,36 +334,6 @@ But the black kitten had been finished with earlier in the afternoon, and so, wh
         <link>
         /looking-glass-house</link>
         <guid isPermaLink="true">/looking-glass-house</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Down The Rabbit Hole</title>
-        
-          <description>&lt;p&gt;Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, ‘and what is the use of a book,’ thought Alice ‘without pictures or conversation?’&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sun, 26 Nov 1865 10:18:00 +0000</pubDate>
-        <link>
-        /down-the-rabbit-hole</link>
-        <guid isPermaLink="true">/down-the-rabbit-hole</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Gettysburg Address</title>
-        
-          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Thu, 19 Nov 1863 10:18:00 +0000</pubDate>
-        <link>
-        /gettysburg-address</link>
-        <guid isPermaLink="true">/gettysburg-address</guid>
       </item>
       
     
