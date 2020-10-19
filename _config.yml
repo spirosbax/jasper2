@@ -6,24 +6,30 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: Spiros Baxevanakis
+description: I'm an aspiring researcher. I blog about neural networks and deep learning.
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
+# logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-CNAME: #add cname for website to be created
+CNAME: spirosbax.com
 
 # Social info
 navigation: True # show the navbar links
-subscribers: True # you need to connect an external service for this to work,
+subscribers: False # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+twitter: spirosbax # replace by your username
+# facebook: ghost # replace by your username
+github: spirosbax
+linkedin: spirosbax
+email: sprbax@gmail.com
+scholar: PJVrz5MAAAAJ
+orcid_id: 0000-0001-5213-4498
+
 
 # Disqus
 disqus: False
@@ -42,10 +48,35 @@ permalink: /:title
 
 # gems and other configs
 plugins_dir: [_plugins]
-plugins: [jekyll-paginate, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-feed, jekyll/scholar, jekyll-email-protect]
 
 feed:
   path: feed.xml
+
+# Jekyll-Scholar
+scholar:
+
+  last_name: Baxevanakis
+
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
 
 # Additional settings available on the front-matter
 # Site logo in the index.html (as in demo.ghost.io)
