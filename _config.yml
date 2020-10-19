@@ -98,13 +98,13 @@ scholar:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
+username: spirosbax
 repo: jasper2
-branch: master
+branch: gh-pages
 relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url:  https://jekyller.github.io/jasper2/
-source_url:  https://github.com/jekyller/jasper2/
+destination: ./_site/
+production_url:  https://spirosbax.github.io/jasper2/
+source_url:  https://github.com/spirosbax/jasper2/
 
 exclude:
   - assets/css
