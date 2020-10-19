@@ -100,7 +100,7 @@ safe: False
 lsi: False
 username: spirosbax
 repo: jasper2
-branch: gh-pages
+branch: master
 relative_source: ../jasper2/
 destination: ./_site/
 production_url:  https://spirosbax.github.io/jasper2/
