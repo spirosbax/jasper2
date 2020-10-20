@@ -16,6 +16,7 @@ cover: assets/images/blog-cover.jpg
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: spirosbax.com
+url: spirosbax.com
 
 # Social info
 navigation: True # show the navbar links
