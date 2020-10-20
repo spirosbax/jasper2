@@ -16,6 +16,7 @@ cover: assets/images/blog-cover.jpg
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: spirosbax.com
+url: spirosbax.com
 
 # Social info
 navigation: True # show the navbar links
@@ -36,7 +37,7 @@ disqus: False
 disqus_shortname: jekyller # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: UA-180924925-1 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
