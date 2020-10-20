@@ -99,12 +99,12 @@ scholar:
 safe: False
 lsi: False
 username: spirosbax
-repo: jasper2
+repo: spirosbax.github.io
 branch: master
 # relative_source: ../jasper2/
 destination: ./_site/
 production_url:  https://spirosbax.github.io/
-source_url:  https://github.com/spirosbax/jasper2/
+source_url:  https://github.com/spirosbax/spirosbax.github.io/
 
 exclude:
   - assets/css
