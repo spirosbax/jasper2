@@ -2,9 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> - Articles</title>
-    <description>I'm an aspiring researcher. I blog about neural networks and deep learning.</description>
+    <description>Aspiring researcher, fascinated by learning algorithms. I blog about Neural Networks and Deep Leanring.</description>
     <link>
     </link>
+    
+      
+      <item>
+        <title>Neural Style Transfer</title>
+        
+          <description>&lt;p&gt;This post explores and reproduces the paper titled &lt;a href=&quot;https://arxiv.org/abs/1508.06576&quot;&gt;“A Neural Algorithm of Artistic Style”&lt;/a&gt; by Leon A. Gatys, Alexander S. Ecker and  Matthias Bethge. This post is also avaiable as a &lt;a href=&quot;https://colab.research.google.com/drive/1XULJbgn1Q4UJRHvVph7i6KjrdHAzg4Fy?usp=sharing&quot;&gt;Jupyter Notebook&lt;/a&gt;. I recommened reading &lt;a href=&quot;https://github.com/spirosbax/Annotated_Papers/blob/main/1508.06576.pdf&quot;&gt;the annotated paper&lt;/a&gt; in tandem with this post.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+        <link>
+        /Neural-Style-Transfer</link>
+        <guid isPermaLink="true">/Neural-Style-Transfer</guid>
+      </item>
+      
     
       
       <item>
