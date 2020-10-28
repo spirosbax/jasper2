@@ -11,6 +11,18 @@ disqus: false
 into the {body} of the default.hbs template -->
 
 <header class="site-header outer">
+    <!-- <script type="text/javascript">
+        window.MathJax = {
+          tex: {
+            packages: ['base', 'ams']
+          },
+          loader: {
+            load: ['ui/menu', '[tex]/ams']
+          }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>  -->
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <div class="inner">
         {% include site-nav.html %}
     </div>
