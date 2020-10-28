@@ -4,8 +4,8 @@ current: post
 cover:  assets/images/neural-style-transfer/starry_night.jpg
 navigation: True
 title: Neural Style Transfer
-date: 2020-10-27
-tags:
+date: 2020-10-28
+tags: [convolutional neural networks, transfer learning, tensorflow]
 class: post-template
 subclass: 'post'
 author: spiros
