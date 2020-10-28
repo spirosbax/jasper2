@@ -11,7 +11,7 @@ subclass: 'post'
 author: spiros
 ---
 
-This post explores and reproduces the paper titled ["A Neural Algorithm of Artistic Style"](https://arxiv.org/abs/1508.06576) by Leon A. Gatys, Alexander S. Ecker and  Matthias Bethge. This post is also avaiable as a [Jupyter Notebook](https://colab.research.google.com/drive/1XULJbgn1Q4UJRHvVph7i6KjrdHAzg4Fy?usp=sharing). I recommened reading [the annotated paper](https://github.com/spirosbax/Annotated_Papers/blob/main/1508.06576.pdf) in tandem with this post.
+This post explores and reproduces the paper titled ["A Neural Algorithm of Artistic Style"](https://arxiv.org/abs/1508.06576) by Leon A. Gatys, Alexander S. Ecker and  Matthias Bethge. This post is also avaiable as a [Jupyter Notebook](https://colab.research.google.com/drive/1XULJbgn1Q4UJRHvVph7i6KjrdHAzg4Fy?usp=sharing). I recommend reading [the annotated paper](https://github.com/spirosbax/Annotated_Papers/blob/main/1508.06576.pdf) in tandem with this post.
 
 ## Table of Contents
 
