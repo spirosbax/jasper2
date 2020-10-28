@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/author/spiros/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/tag/transfer-learning/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
   <updated>2020-10-28T20:38:35+00:00</updated>
-  <id>/author/spiros/feed.xml</id>
+  <id>/tag/transfer-learning/feed.xml</id>
 
   
   
@@ -580,40 +580,6 @@
 
       
         <summary type="html">This post explores and reproduces the paper titled “A Neural Algorithm of Artistic Style” by Leon A. Gatys, Alexander S. Ecker and Matthias Bethge. This post is also avaiable as a Jupyter Notebook. I recommend reading the annotated paper in tandem with this post.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Welcome to this blog</title>
-      <link href="/welcome" rel="alternate" type="text/html" title="Welcome to this blog" />
-      <published>2020-10-20T00:00:00+00:00</published>
-      <updated>2020-10-20T00:00:00+00:00</updated>
-      <id>/welcome</id>
-      <content type="html" xml:base="/welcome">&lt;p&gt;Hey! Welcome to my blog, it’s great to have you :)&lt;/p&gt;
-
-&lt;p&gt;In this blog I will post about Deep Learning papers. There will be posts discussing and reproducing papers.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Spiros Baxevanakis</name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html">Hey! Welcome to my blog, it’s great to have you :)</summary>
       
 
       
