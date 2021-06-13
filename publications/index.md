@@ -6,7 +6,7 @@ navigation: true
 logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
-years: [2020,2018]
+years: [2020]
 ---
 
 <!-- <p style="text-align: center; line-height: 3em;">
